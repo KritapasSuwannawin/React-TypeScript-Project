@@ -2,7 +2,7 @@
 
 A React TypeScript project that I did while undertaking an online course called "React - The Complete Guide" from Udemy (https://www.udemy.com/course/react-the-complete-guide-incl-redux)
 
-Library and languages used include:
+Library and Languages used include:
 
 - ReactJS
 - TypeScript
